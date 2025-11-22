@@ -16,3 +16,7 @@ Q4.name two developer tools introduced with Gemini 3.0.
 
 1. nano banana
 2. gemini CLI
+
+
+ # PART B
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e0f2c98b-5a12-48ae-85fd-9ed627725908" />
